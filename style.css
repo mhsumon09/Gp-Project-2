@@ -1,0 +1,809 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clr {
+    clear: both;
+}
+
+.first_head {
+    height: 38px;
+    width: 100%;
+    background: #F5F5F5;
+}
+
+.one a b {
+    height: 38px;
+    width: 10%;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+    color: #1A1A1A;
+    margin-top: 7px;
+}
+
+.two a {
+    height: 38px;
+    width: 10%;
+    text-align: center;
+    float: left;
+    font-size: 17px;
+    text-decoration: none;
+    color: #1A1A1A;
+    margin-top: 7px;
+}
+
+.three a {
+    height: 38px;
+    width: 70%;
+    text-align: left;
+    float: left;
+    font-size: 17px;
+    text-decoration: none;
+    color: #1A1A1A;
+    margin-top: 7px;
+}
+
+.four a {
+    height: 38px;
+    width: 10%;
+    text-align: left;
+    float: left;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #1A1A1A;
+    margin-top: 7px;
+}
+
+
+/* -------------------------first div------------------------- */
+
+.second_head {
+    height: 85px;
+    width: 100%;
+    background: #FFF;
+}
+
+.oneA a {
+    height: 85px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    color: #1A1A1A;
+    margin-top: 30px;
+}
+
+.twoB a {
+    height: 85px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    color: #1A1A1A;
+    margin-top: 30px;
+}
+
+.threeC a {
+    height: 85px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    color: #1A1A1A;
+    margin-top: 30px;
+}
+
+.fourD {
+    height: 85px;
+    width: 30%;
+    float: left;
+    margin-left: 75px;
+}
+
+.fiveE a {
+    height: 85px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    color: #1A1A1A;
+    margin-top: 30px;
+}
+
+.sixF a {
+    height: 85px;
+    width: 8%;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    color: #1A1A1A;
+    margin-top: 30px;
+}
+
+.sevenG img {
+    height: auto;
+    width: 14%;
+    float: left;
+    margin-top: 19px;
+}
+
+
+/* ---------------------------banner image------------------------- */
+
+.banner {
+    background: url(image/banner.jpg);
+    height: 420px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.menu {
+    height: 200px;
+    width: 100%;
+}
+
+.recharge {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.recharge img {
+    float: left;
+    margin: 17px 0px 10px 19px;
+}
+
+.recharge p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+.fexiplan {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.fexiplan img {
+    float: left;
+    margin: 17px 0px 10px 19px;
+}
+
+.fexiplan p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+.offers {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.offers img {
+    float: left;
+    margin: 17px 0px 10px 19px;
+}
+
+.offers p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+.my_offers {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.my_offers img {
+    float: left;
+    margin: 17px 0px 10px 19px;
+}
+
+.my_offers p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+
+/* ---------------------2nd icons---------------------- */
+
+.internet_packs {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.internet_packs img {
+    float: left;
+    margin: 18px 0px 10px 31px;
+}
+
+.internet_packs p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+.minutes {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.minutes img {
+    float: left;
+    margin: 17px 0px 10px 40px;
+}
+
+.minutes p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+.star_program {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.star_program img {
+    float: left;
+    margin: 17px 0px 10px 31px;
+}
+
+.star_program p {
+    float: left;
+    margin: 34px 22px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+.bioscope {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.bioscope img {
+    float: left;
+    margin: 17px 0px 10px 19px;
+}
+
+.bioscope p {
+    float: left;
+    margin: 34px 15px;
+    font-size: 30px;
+    color: #1A1A1A;
+}
+
+
+/* -------------------------popular---------------------------- */
+
+.popular {
+    height: 400px;
+    margin-top: 45px;
+}
+
+.popular h1 {
+    text-align: center;
+    color: #1A1A1A;
+}
+
+.onegb {
+    width: 20%;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    margin: 100px 0px 100px 100px;
+    color: #1A1A1A;
+    float: left;
+}
+
+.onegb h1 {
+    display: inline-block;
+    padding: 25px 0px 10px 0px;
+    color: #1A1A1A;
+}
+
+.onegb h2 {
+    padding: 8px 0;
+    color: #1A1A1A;
+}
+
+.onegb h5 {
+    padding: 8px 0;
+    font-size: 18px;
+    color: #C8C8C8;
+}
+
+.onegb p {
+    background: #FDF192;
+    display: inline-block;
+    border-radius: 100px;
+    font-size: 12px;
+    padding: 3px 8px;
+}
+
+.onegb button {
+    margin: 35px 0px;
+    padding: 10px 40px;
+    background: #007ACF;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+}
+
+
+/* ----------------------------two gb--------------------------- */
+
+.twogb {
+    width: 20%;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    margin: 100px 13px;
+    color: #1A1A1A;
+    float: left;
+}
+
+.twogb h1 {
+    display: inline-block;
+    padding: 25px 0px 10px 0px;
+    color: #1A1A1A;
+}
+
+.twogb h2 {
+    padding: 8px 0;
+    color: #1A1A1A;
+}
+
+.twogb h5 {
+    padding: 8px 0;
+    font-size: 18px;
+    color: #C8C8C8;
+}
+
+.twogb p {
+    background: #FDF192;
+    display: inline-block;
+    border-radius: 100px;
+    font-size: 12px;
+    padding: 3px 8px;
+}
+
+.twogb button {
+    margin: 35px 0px;
+    padding: 10px 40px;
+    background: #007ACF;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+}
+
+
+/* ----------------------------5gb----------------------------- */
+
+.fivegb {
+    width: 20%;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    margin: 100px 13px 100px 0px;
+    color: #1A1A1A;
+    float: left;
+}
+
+.fivegb h1 {
+    display: inline-block;
+    padding: 25px 0px 10px 0px;
+    color: #1A1A1A;
+}
+
+.fivegb h2 {
+    padding: 8px 0;
+    color: #1A1A1A;
+}
+
+.fivegb h5 {
+    padding: 8px 0;
+    font-size: 18px;
+    color: #C8C8C8;
+}
+
+.fivegb p {
+    background: #FDF192;
+    display: inline-block;
+    border-radius: 100px;
+    font-size: 12px;
+    padding: 3px 8px;
+}
+
+.fivegb button {
+    margin: 35px 0px;
+    padding: 10px 40px;
+    background: #007ACF;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+}
+
+
+/* ---------------------------six gb------------------------------ */
+
+.sixgb {
+    width: 20%;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    margin: 100px 13px 100px 0px;
+    color: #1A1A1A;
+    float: left;
+}
+
+.sixgb h1 {
+    display: inline-block;
+    padding: 25px 0px 10px 0px;
+    color: #1A1A1A;
+}
+
+.sixgb h2 {
+    padding: 8px 0;
+    color: #1A1A1A;
+}
+
+.sixgb h5 {
+    padding: 8px 0;
+    font-size: 18px;
+    color: #C8C8C8;
+}
+
+.sixgb p {
+    background: #FDF192;
+    display: inline-block;
+    border-radius: 100px;
+    font-size: 12px;
+    padding: 3px 8px;
+}
+
+.sixgb button {
+    margin: 35px 0px;
+    padding: 10px 40px;
+    background: #007ACF;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+}
+
+
+/* -------------------------what's new---------------------- */
+
+.whatsNew h1 {
+    text-align: center;
+    color: #1A1A1A;
+}
+
+.prothom {
+    width: 340px;
+    margin: 30px 10px 30px 140px;
+    float: left;
+}
+
+.picture img {
+    width: 340px;
+}
+
+.content {
+    text-align: center;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.content p {
+    font-size: 18px;
+    color: #777777;
+    margin: 20px 0px;
+}
+
+.content h4 {
+    font-size: 21px;
+    color: #BBBBBB;
+}
+
+.content h5 {
+    margin: 12px 0px;
+    background: #FDF192;
+    display: inline-block;
+    border-radius: 9px;
+}
+
+.content button {
+    margin: 35px 0px;
+    padding: 10px 40px;
+    background: #007ACF;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+}
+
+.ditio {
+    width: 340px;
+    margin: 30px 10px 30px 10px;
+    float: left;
+}
+
+.titio {
+    width: 340px;
+    margin: 30px 140px 30px 10px;
+    float: left;
+}
+
+
+/* ------------------------------services----------------------- */
+
+.service {
+    width: 530px;
+    height: 270px;
+    background: #F5F5F5;
+    float: left;
+    margin: 30px 10px 30px 130px;
+}
+
+.write {
+    width: 265px;
+    float: left;
+    padding-left: 30px;
+}
+
+.write h2 {
+    font-size: 23px;
+    margin: 40px 0px 15px 0px;
+    color: #1A1A1A;
+}
+
+.write p {
+    font-size: 17px;
+    color: #767676;
+}
+
+.write button {
+    margin: 35px 0px;
+    padding: 10px 40px;
+    background: #007ACF;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+}
+
+.gpic img {
+    width: 265px;
+    float: left;
+}
+
+.serviceUp {
+    width: 530px;
+    height: 270px;
+    background: #F5F5F5;
+    float: left;
+    margin: 30px 130px 30px 0px;
+}
+
+
+/* ------------------------phone pirce area------------------------ */
+
+.phone {
+    width: 310px;
+    height: 370px;
+    background: #F5F5F5;
+    text-align: center;
+    margin: 50px 0px;
+    margin-left: 20px;
+    float: left;
+    display: flexbox;
+}
+
+#design p {
+    background: #B0F0B2;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 4px 7px;
+    margin-bottom: 15px;
+}
+
+.phone_pic img {
+    width: 230px;
+    height: 240px;
+    background: #F5F5F5;
+}
+
+.phoneContent p {
+    color: #007AD0;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 15px 0px;
+}
+
+.phoneContent h4 {
+    color: #5E5E5E;
+    font-size: 18px;
+}
+
+
+/* ------------------------------------my gp contetn---------------------------------- */
+
+.my_gp {
+    height: 500px;
+    width: 1300px;
+}
+
+.mygp_img {
+    height: 500px;
+    width: 650px;
+    float: left;
+}
+
+.mygp_img img {
+    width: 420px;
+    height: 400px;
+    margin: 55px 50px 50px 150px;
+}
+
+.mygp_content {
+    height: 500px;
+    width: 650px;
+    float: left;
+}
+
+.mygp_content p {
+    font-size: 24px;
+    font-weight: 400;
+    margin: 60px 0px 30px 0px;
+}
+
+.mygp_content h6 {
+    font-size: 16px;
+    padding-right: 140px;
+    line-height: 1.5;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: #1A1A1A;
+}
+
+hr {
+    width: 924px;
+    margin: o auto;
+    margin-left: 195px;
+    margin-top: 15px;
+    color: #EBEBEB;
+}
+
+
+/* ------------------------------------------------------------------ */
+
+.last_hr hr {
+    width: 100%;
+    margin-left: 0px;
+    color: #EBEBEB;
+}
+
+.footer {
+    width: 100%;
+    height: 350px;
+}
+
+.part_one {
+    width: 300px;
+    margin: 25px 42px;
+    float: left;
+}
+
+.part_one h4 {
+    font-size: 21px;
+    line-height: 2;
+}
+
+.part_two {
+    width: 300px;
+    float: left;
+}
+
+.part_two span {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.part_two p {
+    font-size: 19px;
+    line-height: 1.9;
+    color: #767676;
+}
+
+.part_three {
+    width: 300px;
+    float: left;
+}
+
+.part_three span {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.part_three p {
+    font-size: 19px;
+    line-height: 1.9;
+    color: #767676;
+}
+
+.part_four {
+    width: 300px;
+    float: left;
+}
+
+.part_four span {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.part_four p {
+    font-size: 19px;
+    line-height: 1.9;
+    color: #767676;
+}
+
+
+/* --------------------------------------- */
+
+.likha {
+    float: left;
+}
+
+.youPic {
+    float: right;
+}
+
+.likha p {
+    font-size: 36px;
+    margin-left: 25px;
+    letter-spacing: 1.2px;
+}
+
+.last_footer {
+    height: 25px;
+}
+
+.last_footer p {
+    margin: 10px 20px;
+    font-size: 15px;
+}
